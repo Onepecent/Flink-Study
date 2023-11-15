@@ -1,6 +1,14 @@
 # Flink学习
 [笔记参考1](https://blog.csdn.net/qq_46485161/article/details/120792090?spm=1001.2014.3001.5502)</br>
-[笔记参考2](https://blog.csdn.net/qq_46485161/article/details/120792350?spm=1001.2014.3001.5502)
+[笔记参考2](https://blog.csdn.net/qq_46485161/article/details/120792350?spm=1001.2014.3001.5502)</br>
+[笔记参考3](https://blog.csdn.net/qq_46485161/article/details/120804955?spm=1001.2014.3001.5502)</br>
+[笔记参考4](https://blog.csdn.net/qq_46485161/article/details/120802688?spm=1001.2014.3001.5502)</br>
+[笔记参考5](https://blog.csdn.net/qq_46485161/article/details/120835845?spm=1001.2014.3001.5502)</br>
+[笔记参考6](https://blog.csdn.net/qq_46485161/article/details/120876642?spm=1001.2014.3001.5502)</br>
+[笔记参考7](https://blog.csdn.net/qq_46485161/article/details/121003783?spm=1001.2014.3001.5502)</br>
+[笔记参考8](https://blog.csdn.net/qq_46485161/article/details/121005498?spm=1001.2014.3001.5502)</br>
+
+
 ## Flink基本概念
 ### Flink Cluster
 一般情况下，Flink 集群是由一个 Flink Master 和一个或多个 Flink TaskManager 进程组成的分布式系统。
